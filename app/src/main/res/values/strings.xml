@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sweet Browser</string>
+    <string name="clear_tips">Close TBAs and Clear Date</string>
+    <string name="clear_successfully">Clean Successfully</string>
+    <string name="search">Search</string>
+    <string name="search_input_tips">Please enter your search content</string>
+    <string name="page_copy_tips">Copy successfully</string>
+
+    <string name="setting">Setting</string>
+    <string name="confirm">Confirm</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy_text">The following terms and conditions (the “Terms”) govern your use of the VPN services we provide (the “Service”) and their associated website domains (the “Site”). These Terms constitute a legally binding agreement (the “Agreement”) between you and Tap VPN. (the “Tap VPN”).
+\n\n
+Activation of your account constitutes your agreement to be bound by the Terms and a representation that you are at least eighteen (18) years of age, and that the registration information you have provided is accurate and complete.
+\n\n
+Tap VPN may update the Terms from time to time without notice. Any changes in the Terms will be incorporated into a revised Agreement that we will post on the Site. Unless otherwise specified, such changes shall be effective when they are posted. If we make material changes to these Terms, we will aim to notify you via email or when you log in at our Site.
+\n\n
+By using Tap VPN\n
+You agree to comply with all applicable laws and regulations in connection with your use of this service.regulations in connection with your use of this service.</string>
+</resources>
